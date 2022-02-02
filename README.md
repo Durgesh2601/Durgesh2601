@@ -1,5 +1,5 @@
 ### Hi there, I'm Durgesh 👋
-An aspiring full stack web developer with a passion for developing
+I'm an aspiring full stack web developer with a passion for developing
 innovative programs. Skilled at reading and
 writing codes using viable inputs and
 outputs.
