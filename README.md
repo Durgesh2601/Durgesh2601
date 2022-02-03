@@ -21,10 +21,6 @@ outputs.
 
 ---
 
-
-
----
-
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
@@ -41,6 +37,7 @@ outputs.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 
+---
 ![Durgesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Durgesh2601&hide_border=true&theme=react-dark)
 
 
