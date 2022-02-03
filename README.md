@@ -1,6 +1,6 @@
 ### Hi there, I'm Durgesh 👋
 I'm an aspiring full stack web developer with a passion for developing
-innovative programs. Skilled at reading and
+innovative programs. I'm skilled at reading and
 writing codes using viable inputs and
 outputs.
 - 🌱 I’m currently learning ReactJs
