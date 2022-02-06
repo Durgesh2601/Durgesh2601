@@ -52,3 +52,6 @@ outputs.
 <a href="https://github.com/Durgesh2601?tab=followers"><img src="https://img.shields.io/github/followers/Durgesh2601?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/AleemAlam/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Durgesh2601"></a>
+    
+<!--    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Durgesh2601&repo=Todo-App)](https://github.com/Durgesh2601/Todo-app)
+ -->
