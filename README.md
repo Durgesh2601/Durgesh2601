@@ -44,13 +44,11 @@ outputs.
 ## 📈 Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Durgesh2601&hide_border=true&theme=react"/>
-  <img width="49%"src="https://github-readme-stats.vercel.app/api?username=Durgesh2601&&show_icons=true&title_color=6492df&icon_color=775b99&text_color=dafbe1&bg_color=1a1b27">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Durgesh2601&hide_border=true&theme=synthwave"/>
+  <img width="49%"src="https://github-readme-stats.vercel.app/api?username=Durgesh2601&&show_icons=true&title_color=0178b8&icon_color=209873&text_color=dee0e3&bg_color=050f2c">
 </p>
 
-![](https://komarev.com/ghpvc/?username=Durgesh2601)
-
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Durgesh2601}/count.svg" /></p>
-<br></div> -->
+## ❤ Followers and Views
+<a href="https://github.com/Durgesh2601?tab=followers"><img src="https://img.shields.io/github/followers/Durgesh2601?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AleemAlam/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Durgesh2601"></a>
