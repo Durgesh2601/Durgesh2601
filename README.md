@@ -5,7 +5,7 @@ writing codes using viable inputs and
 outputs.
 - 🌱 I’m currently learning ReactJs
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: I spend more than 13 hours in gaming every week.
+- ⚡ Fun fact: I spend more than 12 hours in gaming every week.
 - 📫 How to reach me : -
 <p align="center">
 	<a href="https://www.linkedin.com/in/siinghdurgesh/" target="_blank">
