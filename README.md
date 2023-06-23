@@ -41,8 +41,7 @@ outputs.
 ![Nodejs](https://img.shields.io/badge/Node.js-026e00?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 
 ---
-![Durgesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Durgesh2601&hide_border=true&theme=react-dark)
-
+[![Durgesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=durgesh2601&bg_color=131820&color=4c7f9e&line=4c919e&point=413e41&area=true&hide_border=true)](https://github.com/Durgesh2601/github-readme-activity-graph)
 
 ## 📈 Stats
 
