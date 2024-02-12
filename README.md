@@ -33,7 +33,6 @@ outputs.
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkslategray?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-026e00?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 
