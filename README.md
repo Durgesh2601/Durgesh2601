@@ -3,7 +3,7 @@ I'm a full stack web developer with a passion for developing
 innovative programs. I'm skilled at reading and
 writing codes using viable inputs and
 outputs.
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I spend more than 12 hours in gaming every week.
 - 📫 How to reach me : -
